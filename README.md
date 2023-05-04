@@ -1,8 +1,10 @@
 # Hello Everyone, I'm Yash 👋
 
-<div class="tenor-gif-embed" data-postid="21666282" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="https://tenor.com/view/chilled-lamb-mienar-lofi-study-gif-21666282">Chilled Lamb Mienar GIF</a>from <a href="https://tenor.com/search/chilled+lamb-gifs">Chilled Lamb GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gifv" width="350" height="210">
 
-I'm a front-end developer with experience in HTML, CSS, and JavaScript. I enjoy creating responsive and user-friendly web designs that provide a great user experience.
+I find the most joy in learning, building, and contributing. By combining form and function, I strive to create products that not only look great but also perform brilliantly. I'm particularly passionate about designing sleek user interfaces and bringing them to life with my coding skills.
+
+When I step away from my screen, you can often find me dancing to my favorite music. Balancing my time between my work and leisure activities keeps me energized and motivated.
 
 ## Skills
 
@@ -12,4 +14,4 @@ I'm a front-end developer with experience in HTML, CSS, and JavaScript. I enjoy 
 
 ## Contact Me
 
-If you'd like to get in touch, you can reach me at [yashnkale@gmail.com](mailto:your-email@example.com).
+If you'd like to get in touch, you can reach me at [yashnkale@gmail.com](mailto:your-email@example.com)
