@@ -1,6 +1,6 @@
 # Hello Everyone, I'm Yash 👋
 
-(https://example.com/your-gif.gif)
+(./yshkale.svg)
 
 I'm a front-end developer with experience in HTML, CSS, and JavaScript. I enjoy creating responsive and user-friendly web designs that provide a great user experience.
 
