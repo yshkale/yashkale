@@ -10,4 +10,4 @@ I'm a front-end developer with experience in HTML, CSS, and JavaScript. I enjoy 
 
 ## Contact Me
 
-If you'd like to get in touch, you can reach me at [yashnkale@gmail.com](mailto:your-email@example.com). You can also find me on [yshkale](link-to-linkedin-profile) and [yshkale](link-to-twitter-profile).
+If you'd like to get in touch, you can reach me at [yashnkale@gmail.com](mailto:your-email@example.com).
