@@ -11,6 +11,8 @@ When I step away from my screen, you can often find me dancing to my favorite mu
 - HTML
 - CSS
 - JavaScript
+- React JS
+- GIT
 
 ## Contact Me
 
